@@ -15,4 +15,5 @@ class Shoe
     @condition = "new"
   end
 
+  puts "${@color}"
 end
